@@ -1,4 +1,4 @@
-In this repository, you have to push your solutions for every exercise done.
+In this repository, you will find the content of the course.
 
 ## How to
 1. Clone the repository using HTTPS or SSH (you need to have git installed)
